@@ -31,7 +31,7 @@ if(!fsModule.checkFs()){
     .then((res)=>{
         if(res === true){
             // //Test Agregar un nuevo producto
-            // const prod = new Producto('Ultimo otrop', 200, 'https://images.freeimages.com/images/large-previews/9fb/boat-1171740.jpg');
+            // const prod = new Producto('Foto de un paisaje', 2000, 'https://images.freeimages.com/images/large-previews/9fb/boat-1171740.jpg');
             // fsModule.save(prod)
             // .then((res)=>{console.log(res)})
             // .catch((error)=>{error.message});
